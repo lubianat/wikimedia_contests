@@ -4,6 +4,8 @@ An open hub of Wikimedia contests
 
 A colaborative list of Wikimedia contests. 
 
+There is also a (incomplete) page of contests here : https://en.wikipedia.org/wiki/Wikipedia:Contests
+
 # Current contests
 
 ## General
