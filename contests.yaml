@@ -1,4 +1,4 @@
-contexts:
+contests:
   - 1:
      title: Wikipédia:Projeto Mais Teoria da História na Wiki/Mais mulheres
      start_date: 01/03/2022
@@ -41,7 +41,22 @@ contexts:
      url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Wikiconcurso_verbetes_fant%C3%A1sticos
      lang: pt 
      projects: ptwikipedia
-  - X:
+  - 7:
+     title: Wikiconcurso Wiki Loves Espírito Santo
+     start_date: 12/05/2022
+     end_date: 12/07/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Wikiconcurso_Wiki_Loves_Esp%C3%ADrito_Santo
+     lang: pt 
+     projects: ptwikipedia
+ - 8 :
+     title: Wiki Loves Monuments 2022
+     start_date: 01/09/2022
+     end_date: 30/09/2022
+     url: 
+     lang: pt
+     projects: commons
+    
+ - X:
      title:
      start_date: 
      end_date: 
