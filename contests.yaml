@@ -1,0 +1,50 @@
+contexts:
+  - 1:
+     title: Wikipédia:Projeto Mais Teoria da História na Wiki/Mais mulheres
+     start_date: 01/03/2022
+     end_date: 31/03/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Mais_mulheres
+     lang: pt
+     projects: ptwikipedia, ptwikiquote, wikidata, commons, 
+  - 2:
+     title: WWikipédia:Projeto Mais Teoria da História na Wiki/Mais LGBTQIAP+
+     start_date: 01/06/2022
+     end_date: 31/06/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Mais_LGBTQIAP%2B
+     lang: pt
+     projects: ptwikipedia, ptwikiquote, wikidata, commons, 
+  - 3:
+     title: Wikipédia:Projeto Mais Teoria da História na Wiki/Mais povos originários
+     start_date: 01/08/2022
+     end_date: 31/08/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Mais_povos_origin%C3%A1rios
+     lang: pt
+     projects: ptwikipedia, ptwikiquote, wikidata, commons
+  - 4:
+     title: Wikipédia:Projeto Mais Teoria da História na Wiki/Mais negres
+     start_date: 01/11/2022
+     end_date: 31/11/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Mais_negres
+     lang: pt
+     projects: ptwikipedia, ptwikiquote, wikidata, commons
+  - 5:
+     title: Wikiconcurso chuva de bytes
+     start_date: 01/04/2022
+     end_date: 20/07/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Wikiconcurso_chuva_de_bytes
+     lang: pt
+     projects: ptwikipedia
+  - 6:
+     title: Wikiconcurso verbetes fantásticos
+     start_date: 01/09/2022
+     end_date: 19/12/2022
+     url: https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:Projeto_Mais_Teoria_da_Hist%C3%B3ria_na_Wiki/Wikiconcurso_verbetes_fant%C3%A1sticos
+     lang: pt 
+     projects: ptwikipedia
+  - X:
+     title:
+     start_date: 
+     end_date: 
+     url: 
+     lang: 
+     projects: 
