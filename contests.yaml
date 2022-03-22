@@ -55,6 +55,13 @@ contests:
      url: 
      lang: pt
      projects: commons
+ - 9:
+     title: 11th ISCB Student Wikipedia competition
+     start_date: 01/09/2021
+     end_date: 29/04/2022
+     url: https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Molecular_Biology/Computational_Biology/11th_ISCB_Student_Wikipedia_competition_announcement
+     lang: en
+     projects: enwikipedia 
     
  - X:
      title:
